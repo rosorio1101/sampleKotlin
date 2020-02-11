@@ -6,4 +6,9 @@ fun main() {
 }
 fun helloFellas() {
     print("hello Fellas")
+    helloWorld()
+}
+
+fun helloWorld() {
+    println("hola mundo")
 }
